@@ -28,7 +28,7 @@ The overarching objectives of this project are as follows:
 
 ## Supporting Material
 
-Delve into the intricacies of our organization's data structures with the [Table Formats document](#), providing a roadmap for understanding the tables utilized in this project.
+Delve into the intricacies of our organization's data structures with the [Table Formats document](https://github.com/JustinAntunes-Cardoso/SQL-Security-Filters/blob/main/Table-formats.docx), providing a roadmap for understanding the tables utilized in this project.
 
 ## Project Steps
 
