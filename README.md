@@ -1,4 +1,4 @@
-# Project Scope: SQL Filters Unleashed for Security Enhancement
+# SQL Filters Unleashed for Security Enhancement
 
 ## Background
 
